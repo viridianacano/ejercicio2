@@ -1,0 +1,3 @@
+usamos una funcion para sumar los numeros enteros del arreglo
+En un for sumamos los numeros del arreglo
+con un console log mandamos a llamar la funcion y la imprimimos
